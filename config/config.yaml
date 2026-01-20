@@ -112,17 +112,17 @@ rss:
 
     - id: "woshipm"
       name: "人人都是产品经理"
-      url: "https://www.woshipm.com/"
+      url: "https://www.woshipm.com/feed"
       max_age_days: 1
 
     - id: "tmtpost"
       name: "钛媒体：创新挖掘者"
-      url: "https://www.tmtpost.com/"
+      url: "https://www.tmtpost.com/rss.xml"
       max_age_days: 1
 
     - id: "sdnlab"
       name: "SDN技术社区 | SDN/Openflow社区 | 专注软件定义网络"
-      url: "https://www.sdnlab.com/"
+      url: "https://www.sdnlab.com/feed"
       max_age_days: 1
 
     # 自定义源示例
